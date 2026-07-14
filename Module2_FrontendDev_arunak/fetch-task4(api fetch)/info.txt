@@ -1,0 +1,24 @@
+what this task is about :
+🧠 What You Just Learned
+
+This is BIG:
+
+✅ Calling an API
+✅ Handling real data
+✅ Updating UI dynamically
+
+👉 This is how apps like Instagram, Netflix, etc. work
+
+Now we level up from:
+👉 “user clicks → something changes”
+
+to:
+
+👉 “website fetches real data and displays it”
+
+This is your first real-world web dev skill 🔥
+
+🧠 What You’ll Learn
+Fetch data from an API 🌐
+Work with JSON data
+Display dynamic content on the page

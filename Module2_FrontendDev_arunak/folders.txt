@@ -1,0 +1,10 @@
+task1-html-basics/
+task2-css-styling/
+task3-dom-interaction/
+task4-api-fetch/
+task5-react-basics/
+task6-react-advanced/
+task7-angular/
+task8-vue/
+task9-accessibility/
+task10-state-management/
